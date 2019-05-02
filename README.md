@@ -19,3 +19,6 @@ the TTL distribution and explore anomalies in the value distribution.
 
 
 ![TTL clusters](https://github.com/SIDN/verfploeter-TTL-investigation/blob/master/imgs/ttl.gif)
+
+![TTL distribution](https://github.com/SIDN/verfploeter-TTL-investigation/blob/master/imgs/ttl-distribution.gif)
+
