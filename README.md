@@ -1,4 +1,4 @@
-# verfploeter-ttl-investigation
+# verfploeter-TTL-investigation
 Explore the TTL values received from verfploeter anycast measurement tool
 
 
